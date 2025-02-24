@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://SilentStorm2k.github.io/Shiva-Mohan//sitemap.xml
+User-agent: * Disallow: Sitemap: https://SilentStorm2k.github.io/sitemap.xml
