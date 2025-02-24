@@ -1,200 +1,404 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shiva M",
+    "label": "Software Developer @ Garuda Labs | MS in Computer Science",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "shivvanandh@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Results-driven Software Developer with a passion for creating scalable back-end systems, robust APIs, and software solutions that drive business impact. At Garuda Labs, I contributed to the development and optimization of GraphQL APIs, reducing data retrieval time by 15%, and developed custom CLI tools that cut troubleshooting and data retrieval time by 25%. I am currently implementing Jest testing suites to streamline the software release process and improve deployment reliability.\n\nHolding a BSc in Computer Science & Mathematics and currently pursuing an MSc in Computer Science, I apply Agile methodologies and a strong understanding of the SDLC to deliver high-quality software. Proficient in Python, Java, JavaScript, and SQL. I thrive in collaborative environments and am passionate about delivering impactful results with cross-functional teams.\n\nExcited to connect with professionals and explore opportunities in back-end development, API design, and scalable system architecture.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
       "countryCode": "US",
-      "region": "California"
+      "address": "United States"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "shiva-mo",
+        "url": "https://www.linkedin.com/in/shiva-mo/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Garuda Labs",
+      "position": "Software Developer",
+      "startDate": "2024-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- Developed and optimized GraphQL APIs, improving data retrieval efficiency by 15%, enhancing frontend performance and user experience.\n- Designed and implemented custom CLI tools for database interaction, reducing troubleshooting and data retrieval time by 25%, significantly improving developer workflow.\n- Collaborated with frontend teams to provide dynamic GraphQL queries and backend support, ensuring seamless integration and feature development.\n- Currently integrating Jest testing suites to automate testing workflows, improving deployment reliability and streamlining the software release cycle.",
+      "url": "https://www.linkedin.com/company/103351548",
+      "location": null
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "University of Colorado Boulder",
+      "area": "Computer Science",
+      "studyType": "Master of Science - MS",
+      "startDate": "2024-08-31",
+      "endDate": "2026-05-31",
+      "score": "4.0",
+      "courses": []
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Case Western Reserve University",
+      "area": "Mathematics and Computer Science",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2018-12-31",
+      "endDate": "2022-12-31",
+      "score": "",
+      "courses": [
+        "CSDS 325 - Computer Networks",
+        "ECSE 484 - Computational Intelligence",
+        "CSDS 343 - Theoretical Computer Science",
+        "MATH 408 - Introduction to Cryptology",
+        "CSDS 499 - Algorithmic Robots",
+        "CSDS 340 - Machine Learning for Big Data"
+      ]
     }
   ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Agile with Atlassian Jira",
+      "issuer": "Atlassian",
+      "startDate": "2024-10-31",
+      "url": "https://www.coursera.org/account/accomplishments/records/8FO66USIZKJT"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Version Control with Git",
+      "issuer": "Atlassian",
+      "startDate": "2024-10-31",
+      "url": "https://www.coursera.org/account/accomplishments/records/QBTFHRU3ACB0"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Learning How to Learn: Powerful mental tools to help you master tough subjects",
+      "issuer": "Deep Teaching Solutions",
+      "startDate": "2023-02-28",
+      "url": "https://www.coursera.org/account/accomplishments/records/J2TM2SG6R72J"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Advanced Data Structures, RSA and Quantum Algorithms",
+      "issuer": "University of Colorado Boulder",
+      "startDate": "2024-12-31",
+      "url": "https://www.coursera.org/account/accomplishments/records/3I54UKLPUZMR"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Approximation Algorithms and Linear Programming ",
+      "issuer": "University of Colorado Boulder",
+      "startDate": "2024-12-31",
+      "url": "https://www.coursera.org/account/accomplishments/records/974CWK9WJ1A7"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "SQL (Basic)",
+      "issuer": "HackerRank",
+      "startDate": "2024-04-30",
+      "url": "https://www.hackerrank.com/certificates/iframe/74f118a4bbda"
+    },
+    {
+      "name": "Java (Basic)",
+      "issuer": "HackerRank",
+      "startDate": "2024-04-30",
+      "url": "https://www.hackerrank.com/certificates/iframe/7887a87cf887"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Full-Stack Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Next.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geographic Information Systems (GIS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gitlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scheme Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming (Python, Java, JavaScript)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Experience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interpreter and Compiler Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Classifiers",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Deployment Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Language Parsing and Syntax Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PyTorch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript Frameworks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development Life Cycle (SDLC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Wrangling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Webpack",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Management System (DBMS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pandas (Software)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Back-End Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript Libraries",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Community Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GraphQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Cleaning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Feature Selection",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Languages",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hyperparameter Optimization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Theoretical Computer Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mathematical Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matplotlib",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cross-functional Collaborations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Customer Satisfaction",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Native Speaker",
+      "language": "English"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Professional Working",
+      "language": "Hindi"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Native Speaker",
+      "language": "Tamil"
     }
   ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Vessel Prediction from AIS data",
+      "startDate": "2022-10-31",
+      "summary": "Predicts vessel movements from AIS data, even when MMSIs (Maritime Mobile Service Identity numbers) are unavailable. It aims to track individual vessels over time by assigning position reports to their corresponding vessels with reasonable accuracy.",
+      "url": null,
+      "endDate": "2022-12-31"
+    },
+    {
+      "name": "SNASH",
+      "startDate": "2021-08-31",
+      "summary": "SNASH was created to act as a surveillance recorder for the December 2021 Eclipse Festival of Frequency Measurement and other citizen science campaigns involving timed audio recording.",
+      "url": null,
+      "endDate": "2021-12-31"
+    },
+    {
+      "name": "Objektra",
+      "startDate": "2021-01-31",
+      "summary": "An OO language interpreter which executes code written in a java/c-ish language",
+      "url": null,
+      "endDate": "2021-05-31"
     }
-  ]
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
