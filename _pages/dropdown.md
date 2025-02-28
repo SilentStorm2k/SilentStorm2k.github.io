@@ -1,8 +1,8 @@
 ---
 layout: page
-title: submenus
+title: Submenus
 nav: true
-nav_order: 8
+nav_order: 9
 dropdown: true
 children:
   - title: bookshelf
@@ -13,6 +13,6 @@ children:
   - title: projects
     permalink: /projects/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Private Projects
+    permalink: /Private-Projects/
 ---
