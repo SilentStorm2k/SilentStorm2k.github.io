@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - SilentStorm2k 
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - SilentStorm2k/Vessel-Prediction-from-AIS-Data
+  - Tara162299/SNASH
+  - SilentStorm2k/Objektra
+  - SilentStorm2k/Transportation-Data-Science-Project
+  - SilentStorm2k/Fashion-GAN
+  - SilentStorm2k/email-spam-classification
+  - SilentStorm2k/advent_of_code
