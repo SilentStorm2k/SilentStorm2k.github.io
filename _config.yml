@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Shivvanandh 
-middle_name: 
-last_name: Mohan 
+first_name: Shivvanandh
+middle_name:
+last_name: Mohan
 contact_note: >
   LinkedIn is the fastest way to reach out to me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -85,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Shiv's shack # blog_name will be displayed in your blog page
-blog_description: an easygoing blog  
+blog_description: an easygoing blog
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
