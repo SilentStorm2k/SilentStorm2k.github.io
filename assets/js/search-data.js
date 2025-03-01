@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Private-Projects/";
           },
-        },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-private-projects",
-              title: "Private Projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{
+        },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
