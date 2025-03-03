@@ -2,7 +2,7 @@
 layout: page
 permalink: /Blog/
 title: "Blog"
-description: "My Blog"
+description: "My Quarto Blog"
 redirect_to: https://Silentstorm2k.github.io/Blog/
 nav: true
 nav_order: 2
