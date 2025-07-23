@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Private-Projects/";
           },
+        },{id: "nav-book-a-meeting",
+          title: "Book a Meeting",
+          description: "View my live calendar availability and easily book a meeting or call at your convenience.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/book/";
+          },
         },{
         id: 'social-email',
         title: 'email',
