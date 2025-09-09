@@ -4,10 +4,13 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - SilentStorm2k/Solocal
   - SilentStorm2k/Vessel-Prediction-from-AIS-Data
+  - SilentStorm2k/Fashion-GAN
   - Tara162299/SNASH
   - SilentStorm2k/Objektra
-  - SilentStorm2k/Transportation-Data-Science-Project
-  - SilentStorm2k/Fashion-GAN
   - SilentStorm2k/email-spam-classification
+  - SilentStorm2k/Battle-ship
+  - SilentStorm2k/Weather-App
   - SilentStorm2k/advent_of_code
+  - SilentStorm2k/Transportation-Data-Science-Project

@@ -39,11 +39,6 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-<<<<<<< HEAD
-=======
-rss_icon: true
-
->>>>>>> 42170961 (Initial commit)
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
@@ -52,10 +47,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-<<<<<<< HEAD
 posts_in_search: true
-=======
->>>>>>> 42170961 (Initial commit)
 bib_search: true
 
 # Dimensions
@@ -142,24 +134,14 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-<<<<<<< HEAD
   books:
     output: true
-=======
->>>>>>> 42170961 (Initial commit)
   news:
     defaults:
       layout: post
     output: true
-<<<<<<< HEAD
   projects:
     output: true
-=======
-    permalink: /:collection/:title/
-  projects:
-    output: true
-    permalink: /:collection/:title/
->>>>>>> 42170961 (Initial commit)
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -218,11 +200,7 @@ keep_files:
 
 # Plug-ins
 plugins:
-<<<<<<< HEAD
   - jekyll-archives-v2
-=======
-  - jekyll-archives
->>>>>>> 42170961 (Initial commit)
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -257,11 +235,7 @@ sass:
 
 jekyll-minifier:
   compress_javascript: false # set to false since we are using terser as the js minifier
-<<<<<<< HEAD
   exclude: ["robots.txt", "assets/js/search/*.js"]
-=======
-  # exclude: ["robots.txt", "assets/js/search/*.js"]
->>>>>>> 42170961 (Initial commit)
 
 # -----------------------------------------------------------------------------
 # Terser
@@ -276,7 +250,6 @@ terser:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-<<<<<<< HEAD
   posts:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
     permalinks:
@@ -285,17 +258,6 @@ jekyll-archives:
       categories: "/blog/:type/:name/"
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-=======
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
->>>>>>> 42170961 (Initial commit)
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
@@ -588,15 +550,12 @@ third_party_libraries:
     url:
       js: "https://cdn.jsdelivr.net/npm/photoswipe@{{version}}/dist/photoswipe-lightbox.esm.min.js"
     version: "5.4.4"
-<<<<<<< HEAD
   plotly:
     integrity:
       js: "sha256-oy6Be7Eh6eiQFs5M7oXuPxxm9qbJXEtTpfSI93dW16Q="
     url:
       js: "https://cdn.jsdelivr.net/npm/plotly.js@{{version}}/dist/plotly.min.js"
     version: "3.0.1"
-=======
->>>>>>> 42170961 (Initial commit)
   polyfill:
     url:
       js: "https://cdnjs.cloudflare.com/polyfill/v{{version}}/polyfill.min.js?features=es6"
