@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey there! I'm a Software Developer at Garuda Labs and a Master's student in Computer Science at the [University of Colorado, Boulder](https://www.colorado.edu/). I love building things, optimizing systems, and making the most out of available resources. Also, I’d prefer not to be replaced by AI (for now).
+Hey there! I'm a Software Developer at Garuda Labs and an incoming Master's student in Computer Science at the [Georgia Institute of Technology, Atlanta](https://www.gatech.edu/). I love building things, optimizing systems, and making the most out of available resources. Also, I’d prefer not to be replaced by AI (for now).
 
 In my free time, I travel (alot), explore new technologies, play badminton and other sports, and attempt (often unsuccessfully) to write poetry and blogs.
 
