@@ -179,7 +179,6 @@ let setEchartsTheme = (theme) => {
   });
 };
 
-<<<<<<< HEAD
 let setPlotlyTheme = (theme) => {
   document.querySelectorAll(".js-plotly-plot").forEach((elem) => {
     // Get the code block content from previous element, since it is the plotly code itself as defined in Markdown, but it is hidden
@@ -221,8 +220,6 @@ let setPlotlyTheme = (theme) => {
   });
 };
 
-=======
->>>>>>> 42170961 (Initial commit)
 let setVegaLiteTheme = (theme) => {
   document.querySelectorAll(".vega-lite").forEach((elem) => {
     // Get the code block content from previous element, since it is the vega lite code itself as defined in Markdown, but it is hidden
